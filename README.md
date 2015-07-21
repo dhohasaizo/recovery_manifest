@@ -14,6 +14,9 @@ repo sync
 ````
 Done
 
+add recovery twrp to bootable/recovery.
+use twrp from omnirom https://github.com/omnirom/android_bootable_recovery/tree/android-4.4
+
 To build recovery:
 ````
 . build/envsetup.sh
